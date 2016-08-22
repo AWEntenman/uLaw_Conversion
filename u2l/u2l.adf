@@ -67,10 +67,9 @@ UCF=
 WindowVisible=0
 
 [HierarchyViewer]
-HierarchyInformation=l2u_tb|l2u_TB|0
+HierarchyInformation=l2u_tb|l2u_TB|0 
 ShowHide=ShowTopLevel
 Selected=
-
 
 [Files]
 /fast_encoder.vhd=-1
@@ -82,6 +81,7 @@ Selected=
 /mulawdecoder.vhd=-1
 /l2u_TB.bde=-1
 /w1.awf=-1
+/Extra_TB.bde=-1
 
 [Files.Data]
 .\src\fast_encoder.vhd=VHDL Source Code
@@ -93,7 +93,11 @@ Selected=
 .\src\mulawdecoder.vhd=VHDL Source Code
 .\src\l2u_TB.bde=Block Diagram
 .\src\w1.awf=Waveform File
+.\src\Extra_TB.bde=Block Diagram
 
-.\compile\l2u_TB.vhd=VHDL Source Code
 [file_out:/l2u_TB.bde]
 /..\compile\l2u_TB.vhd=-1
+
+[file_out:/Extra_TB.bde]
+/..\compile\Extra_TB.vhd=-1
+
