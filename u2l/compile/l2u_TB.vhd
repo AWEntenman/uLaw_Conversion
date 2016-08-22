@@ -12,7 +12,7 @@
 -------------------------------------------------------------------------------
 --
 -- File        : d:\My_Designs\uLaw_Conversion\u2l\compile\l2u_TB.vhd
--- Generated   : Mon Aug 22 13:39:51 2016
+-- Generated   : Mon Aug 22 16:09:54 2016
 -- From        : d:\My_Designs\uLaw_Conversion\u2l\src\l2u_TB.bde
 -- By          : Bde2Vhdl ver. 2.6
 --
