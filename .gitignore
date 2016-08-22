@@ -1,3 +1,4 @@
+u2l/src/*.bak
 u2l/compile/
 !u2l/compile/*.vhd
-u2l/src/*.bak
+
