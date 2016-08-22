@@ -2,7 +2,7 @@ SCHM0106
 
 HEADER
 {
- FREEID 3703
+ FREEID 3724
  VARIABLES
  {
   #ARCHITECTURE="l2u_TB"
@@ -1323,13 +1323,13 @@ PAGE ""
     #SYMBOL="Power"
     #SYMBOL_GLOBALLY_UNIQUE_IDENTIFIER=""
    }
-   COORD (2240,420)
-   VERTEXES ( (2,3315) )
+   COORD (2240,460)
+   VERTEXES ( (2,3705) )
   }
   TEXT  678, 0, 0
   {
    TEXT "$#REFERENCE"
-   RECT (2251,373,2314,408)
+   RECT (2251,413,2314,448)
    ALIGN 4
    MARGINS (1,1)
    PARENT 677
@@ -1589,10 +1589,6 @@ PAGE ""
   {
    COORD (2320,900)
   }
-  VTX  3315, 0, 0
-  {
-   COORD (2240,420)
-  }
   VTX  3316, 0, 0
   {
    COORD (2560,620)
@@ -1663,11 +1659,6 @@ PAGE ""
   {
    NET 1029
    VTX 3333, 3313
-  }
-  WIRE  3336, 0, 0
-  {
-   NET 1029
-   VTX 3313, 3315
   }
   WIRE  3337, 0, 0
   {
@@ -1833,6 +1824,15 @@ PAGE ""
    NET 1212
    VTX 3666, 3667
   }
+  VTX  3705, 0, 0
+  {
+   COORD (2240,460)
+  }
+  WIRE  3706, 0, 0
+  {
+   NET 1029
+   VTX 3313, 3705
+  }
  }
  
 }
@@ -1858,7 +1858,7 @@ PAGE ""
  
  BODY
  {
-  TEXT  3686, 0, 0
+  TEXT  3707, 0, 0
   {
    PAGEALIGN 10
    OUTLINE 5,1, (0,0,0)
@@ -1869,7 +1869,7 @@ PAGE ""
    COLOR (0,0,0)
    FONT (12,0,0,700,0,0,0,"Arial")
   }
-  TEXT  3687, 0, 0
+  TEXT  3708, 0, 0
   {
    PAGEALIGN 10
    TEXT "$CREATIONDATE"
@@ -1880,7 +1880,7 @@ PAGE ""
    FONT (12,0,0,700,0,128,0,"Arial")
    UPDATE 0
   }
-  TEXT  3688, 0, 0
+  TEXT  3709, 0, 0
   {
    PAGEALIGN 10
    TEXT "Title:"
@@ -1890,7 +1890,7 @@ PAGE ""
    COLOR (0,0,0)
    FONT (12,0,0,700,0,0,0,"Arial")
   }
-  TEXT  3689, 0, 0
+  TEXT  3710, 0, 0
   {
    PAGEALIGN 10
    OUTLINE 5,1, (0,0,0)
@@ -1902,7 +1902,7 @@ PAGE ""
    FONT (12,0,0,700,0,128,0,"Arial")
    UPDATE 0
   }
-  TEXT  3690, 0, 0
+  TEXT  3711, 0, 0
   {
    PAGEALIGN 10
    TEXT 
@@ -1915,7 +1915,7 @@ PAGE ""
    FONT (12,0,0,700,0,0,0,"Arial")
    MULTILINE
   }
-  TEXT  3691, 0, 0
+  TEXT  3712, 0, 0
   {
    PAGEALIGN 10
    TEXT "Page:"
@@ -1925,7 +1925,7 @@ PAGE ""
    COLOR (0,0,0)
    FONT (12,0,0,700,0,0,0,"Arial")
   }
-  TEXT  3692, 0, 0
+  TEXT  3713, 0, 0
   {
    PAGEALIGN 10
    OUTLINE 5,1, (0,0,0)
@@ -1937,7 +1937,7 @@ PAGE ""
    FONT (12,0,0,700,0,128,0,"Arial")
    UPDATE 0
   }
-  TEXT  3693, 0, 0
+  TEXT  3714, 0, 0
   {
    PAGEALIGN 10
    TEXT "Revision:"
@@ -1947,7 +1947,7 @@ PAGE ""
    COLOR (0,0,0)
    FONT (12,0,0,700,0,0,0,"Arial")
   }
-  TEXT  3694, 0, 0
+  TEXT  3715, 0, 0
   {
    PAGEALIGN 10
    TEXT "$Revision"
@@ -1958,7 +1958,7 @@ PAGE ""
    FONT (12,0,0,700,0,204,0,"Arial")
    UPDATE 0
   }
-  GROUP  3695, 0, 0
+  GROUP  3716, 0, 0
   {
    PAGEALIGN 10
    RECT (2370,1670,3251,2051)
@@ -1970,7 +1970,7 @@ PAGE ""
     FILL (1,(0,0,0),0)
    }
   }
-  GROUP  3696, 0, 0
+  GROUP  3717, 0, 0
   {
    PAGEALIGN 10
    RECT (2370,1870,3251,1871)
@@ -1982,7 +1982,7 @@ PAGE ""
     FILL (1,(0,0,0),0)
    }
   }
-  GROUP  3697, 0, 0
+  GROUP  3718, 0, 0
   {
    PAGEALIGN 10
    RECT (2370,1810,3251,1811)
@@ -1994,7 +1994,7 @@ PAGE ""
     FILL (1,(0,0,0),0)
    }
   }
-  GROUP  3698, 0, 0
+  GROUP  3719, 0, 0
   {
    PAGEALIGN 10
    RECT (2370,1930,3251,1931)
@@ -2006,7 +2006,7 @@ PAGE ""
     FILL (1,(0,0,0),0)
    }
   }
-  GROUP  3699, 0, 0
+  GROUP  3720, 0, 0
   {
    PAGEALIGN 10
    RECT (2370,1990,3251,1991)
@@ -2018,7 +2018,7 @@ PAGE ""
     FILL (1,(0,0,0),0)
    }
   }
-  GROUP  3700, 0, 0
+  GROUP  3721, 0, 0
   {
    PAGEALIGN 10
    RECT (2550,1670,2551,1811)
@@ -2029,7 +2029,7 @@ PAGE ""
     POINTS ( (0,0), (0,140) )
    }
   }
-  GROUP  3701, 0, 0
+  GROUP  3722, 0, 0
   {
    PAGEALIGN 10
    RECT (2550,1810,2551,2051)
@@ -2040,7 +2040,7 @@ PAGE ""
     POINTS ( (0,0), (0,240) )
    }
   }
-  BMPPICT  3702, 0, 0
+  BMPPICT  3723, 0, 0
   {
    PAGEALIGN 10
    RECT (2390,1730,2529,1775)

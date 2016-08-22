@@ -1,3 +1,5 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
 acom -dbg -e 100 -work u2l -2002  $dsn/src/Extra_TB.bde
 # DRC: Checking file 'd:\My_Designs\uLaw_Conversion\u2l\src\Extra_TB.bde'.
 # DRC: Extra_TB.bde - 0 error(s), 0 warning(s)
@@ -8,4 +10,26 @@ acom -dbg -e 100 -work u2l -2002  $dsn/src/Extra_TB.bde
 # File: .\..\compile\Extra_TB.vhd
 # Compile Entity "Extra_TB"
 # Compile Architecture "Extra_TB" of Entity "Extra_TB"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -dbg -e 100 -work u2l -2002  $dsn/src/l2u_TB.bde
+# DRC: Checking file 'd:\My_Designs\uLaw_Conversion\u2l\src\l2u_TB.bde'.
+# DRC: l2u_TB.bde - 0 error(s), 0 warning(s)
+# DRC: DRC process completed in 1 second(s).
+# DRC: The results have been written to the log file. Double click on this line to view the log.
+# Generating d:\My_Designs\uLaw_Conversion\u2l\compile\l2u_TB.vhd from d:\My_Designs\uLaw_Conversion\u2l\src\l2u_TB.bde ...
+# Generation successful
+# File: .\..\compile\l2u_TB.vhd
+# Compile Entity "l2u_TB"
+# Compile Architecture "l2u_TB" of Entity "l2u_TB"
+# Compile success 0 Errors 0 Warnings  Analysis time :  32.0 [ms]
+acom -dbg -e 100 -work u2l -2002  $dsn/src/Q_out_TB.bde
+# DRC: Checking file 'd:\My_Designs\uLaw_Conversion\u2l\src\Q_out_TB.bde'.
+# DRC: Q_out_TB.bde - 0 error(s), 0 warning(s)
+# DRC: DRC process completed in 1 second(s).
+# DRC: The results have been written to the log file. Double click on this line to view the log.
+# Generating d:\My_Designs\uLaw_Conversion\u2l\compile\Q_out_TB.vhd from d:\My_Designs\uLaw_Conversion\u2l\src\Q_out_TB.bde ...
+# Generation successful
+# File: .\..\compile\Q_out_TB.vhd
+# Compile Entity "Q_out_TB"
+# Compile Architecture "Q_out_TB" of Entity "Q_out_TB"
 # Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]

@@ -82,6 +82,7 @@ Selected=
 /l2u_TB.bde=-1
 /w1.awf=-1
 /Extra_TB.bde=-1
+/Q_out_TB.bde=-1
 
 [Files.Data]
 .\src\fast_encoder.vhd=VHDL Source Code
@@ -94,10 +95,14 @@ Selected=
 .\src\l2u_TB.bde=Block Diagram
 .\src\w1.awf=Waveform File
 .\src\Extra_TB.bde=Block Diagram
+.\src\Q_out_TB.bde=Block Diagram
 
 [file_out:/l2u_TB.bde]
 /..\compile\l2u_TB.vhd=-1
 
 [file_out:/Extra_TB.bde]
 /..\compile\Extra_TB.vhd=-1
+
+[file_out:/Q_out_TB.bde]
+/..\compile\Q_out_TB.vhd=-1
 

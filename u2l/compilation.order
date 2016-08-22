@@ -7,3 +7,4 @@
 .\src\mulawdecoder.vhd
 .\src\l2u_TB.bde
 .\src\Extra_TB.bde
+.\src\Q_out_TB.bde
