@@ -6,7 +6,7 @@
 --
 -- Title       : fast_encoder
 -- Design      : U2L
--- Author      : alan
+-- Author      : Alan W. Entenman
 -- Company     : Cosecom Inc
 --
 -------------------------------------------------------------------------------

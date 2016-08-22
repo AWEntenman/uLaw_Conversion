@@ -6,7 +6,7 @@
 --
 -- Title       : clk_module_01
 -- Design      : U2L
--- Author      : alan
+-- Author      : Alan W. Entenman
 -- Company     : Cosecom Inc
 --
 -------------------------------------------------------------------------------

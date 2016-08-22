@@ -6,7 +6,7 @@
 --
 -- Title       : u2l
 -- Design      : U2L
--- Author      : alan
+-- Author      : Alan W. Entenman
 -- Company     : Cosecom Inc
 --
 -------------------------------------------------------------------------------

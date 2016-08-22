@@ -2,7 +2,7 @@ SCHM0106
 
 HEADER
 {
- FREEID 3515
+ FREEID 3549
  VARIABLES
  {
   #ARCHITECTURE="l2u_TB"
@@ -18,11 +18,11 @@ HEADER
   #DEFAULT_RANGE7="<range<index=\"0\"><name=\"u6_ulaw\"><left=\"7\"><direction=\"downto\"><right=\"0\"><initial_value=\"\"><delay=\"\">>"
   #ENTITY="l2u_TB"
   #LANGUAGE="VHDL"
-  AUTHOR="alan"
-  COMPANY="Microsoft"
-  CREATIONDATE="4/15/2014"
+  AUTHOR="Alan W. Entenma n",BOTH
+  COMPANY="Cosecom Inc",BOTH
+  CREATIONDATE="4/15/2014",BOTH
   PAGECOUNT="2"
-  TITLE="No Title"
+  TITLE="uLaw Test",BOTH
  }
  SYMBOL "#default" "clk_module_01" "clk_module_01"
  {
@@ -1850,15 +1850,15 @@ PAGE ""
    #BLOCKTABLE_TEMPL="1"
    #BLOCKTABLE_VISIBLE="0"
    #MODIFIED="1456975536"
-   PAGENAME=""
-   PAGENUMBER="1"
-   REVISION="1.0"
+   PAGENAME="",BOTH
+   PAGENUMBER="1",BOTH
+   REVISION="1.0",BOTH
   }
  }
  
  BODY
  {
-  TEXT  3498, 0, 0
+  TEXT  3532, 0, 0
   {
    PAGEALIGN 10
    OUTLINE 5,1, (0,0,0)
@@ -1869,7 +1869,7 @@ PAGE ""
    COLOR (0,0,0)
    FONT (12,0,0,700,0,0,0,"Arial")
   }
-  TEXT  3499, 0, 0
+  TEXT  3533, 0, 0
   {
    PAGEALIGN 10
    TEXT "$CREATIONDATE"
@@ -1880,7 +1880,7 @@ PAGE ""
    FONT (12,0,0,700,0,128,0,"Arial")
    UPDATE 0
   }
-  TEXT  3500, 0, 0
+  TEXT  3534, 0, 0
   {
    PAGEALIGN 10
    TEXT "Title:"
@@ -1890,7 +1890,7 @@ PAGE ""
    COLOR (0,0,0)
    FONT (12,0,0,700,0,0,0,"Arial")
   }
-  TEXT  3501, 0, 0
+  TEXT  3535, 0, 0
   {
    PAGEALIGN 10
    OUTLINE 5,1, (0,0,0)
@@ -1902,7 +1902,7 @@ PAGE ""
    FONT (12,0,0,700,0,128,0,"Arial")
    UPDATE 0
   }
-  TEXT  3502, 0, 0
+  TEXT  3536, 0, 0
   {
    PAGEALIGN 10
    TEXT 
@@ -1915,7 +1915,7 @@ PAGE ""
    FONT (12,0,0,700,0,0,0,"Arial")
    MULTILINE
   }
-  TEXT  3503, 0, 0
+  TEXT  3537, 0, 0
   {
    PAGEALIGN 10
    TEXT "Page:"
@@ -1925,7 +1925,7 @@ PAGE ""
    COLOR (0,0,0)
    FONT (12,0,0,700,0,0,0,"Arial")
   }
-  TEXT  3504, 0, 0
+  TEXT  3538, 0, 0
   {
    PAGEALIGN 10
    OUTLINE 5,1, (0,0,0)
@@ -1937,7 +1937,7 @@ PAGE ""
    FONT (12,0,0,700,0,128,0,"Arial")
    UPDATE 0
   }
-  TEXT  3505, 0, 0
+  TEXT  3539, 0, 0
   {
    PAGEALIGN 10
    TEXT "Revision:"
@@ -1947,7 +1947,7 @@ PAGE ""
    COLOR (0,0,0)
    FONT (12,0,0,700,0,0,0,"Arial")
   }
-  TEXT  3506, 0, 0
+  TEXT  3540, 0, 0
   {
    PAGEALIGN 10
    TEXT "$Revision"
@@ -1958,7 +1958,7 @@ PAGE ""
    FONT (12,0,0,700,0,204,0,"Arial")
    UPDATE 0
   }
-  GROUP  3507, 0, 0
+  GROUP  3541, 0, 0
   {
    PAGEALIGN 10
    RECT (2370,1670,3251,2051)
@@ -1970,7 +1970,7 @@ PAGE ""
     FILL (1,(0,0,0),0)
    }
   }
-  GROUP  3508, 0, 0
+  GROUP  3542, 0, 0
   {
    PAGEALIGN 10
    RECT (2370,1870,3251,1871)
@@ -1982,7 +1982,7 @@ PAGE ""
     FILL (1,(0,0,0),0)
    }
   }
-  GROUP  3509, 0, 0
+  GROUP  3543, 0, 0
   {
    PAGEALIGN 10
    RECT (2370,1810,3251,1811)
@@ -1994,7 +1994,7 @@ PAGE ""
     FILL (1,(0,0,0),0)
    }
   }
-  GROUP  3510, 0, 0
+  GROUP  3544, 0, 0
   {
    PAGEALIGN 10
    RECT (2370,1930,3251,1931)
@@ -2006,7 +2006,7 @@ PAGE ""
     FILL (1,(0,0,0),0)
    }
   }
-  GROUP  3511, 0, 0
+  GROUP  3545, 0, 0
   {
    PAGEALIGN 10
    RECT (2370,1990,3251,1991)
@@ -2018,7 +2018,7 @@ PAGE ""
     FILL (1,(0,0,0),0)
    }
   }
-  GROUP  3512, 0, 0
+  GROUP  3546, 0, 0
   {
    PAGEALIGN 10
    RECT (2550,1670,2551,1811)
@@ -2029,7 +2029,7 @@ PAGE ""
     POINTS ( (0,0), (0,140) )
    }
   }
-  GROUP  3513, 0, 0
+  GROUP  3547, 0, 0
   {
    PAGEALIGN 10
    RECT (2550,1810,2551,2051)
@@ -2040,7 +2040,7 @@ PAGE ""
     POINTS ( (0,0), (0,240) )
    }
   }
-  BMPPICT  3514, 0, 0
+  BMPPICT  3548, 0, 0
   {
    PAGEALIGN 10
    RECT (2390,1730,2529,1775)
