@@ -1,0 +1,12 @@
+[Version]
+Version=9.2
+[Designs]
+u2l=.\u2l\u2l.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+u2l=1

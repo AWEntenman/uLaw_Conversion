@@ -1,0 +1,8 @@
+.\src\fast_encoder.vhd
+.\src\l2u.vhd
+.\src\clk_module_01.vhd
+.\src\uLaw_Encoder.vhd
+.\src\ramp_gen.vhd
+.\src\u2l.vhd
+.\src\mulawdecoder.vhd
+.\src\l2u_TB.bde

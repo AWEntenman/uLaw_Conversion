@@ -1,0 +1,9 @@
+"d:\My_Designs\uLaw_conversion\u2l\src\fast_encoder.vhd" VHDL u2l 1 0 0 -02
+"d:\My_Designs\uLaw_conversion\u2l\src\l2u.vhd" VHDL u2l 1 0 0 -02
+"d:\My_Designs\uLaw_conversion\u2l\src\clk_module_01.vhd" VHDL u2l 1 0 0 -02
+"d:\My_Designs\uLaw_conversion\u2l\src\uLaw_Encoder.vhd" VHDL u2l 1 0 0 -02
+"d:\My_Designs\uLaw_conversion\u2l\src\ramp_gen.vhd" VHDL u2l 1 0 0 -02
+"d:\My_Designs\uLaw_conversion\u2l\src\u2l.vhd" VHDL u2l 1 0 0 -02
+"d:\My_Designs\uLaw_conversion\u2l\src\mulawdecoder.vhd" VHDL u2l 1 0 0 -02
+".\..\compile\l2u_TB.vhd" VHDL u2l 1 0 0 -02
+. . 0 0 0

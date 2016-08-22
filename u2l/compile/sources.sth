@@ -1,0 +1,17 @@
+[Files List]
+C:\Aldec\Active-HDL-10.3-x64\vlib\std/src/standard.vhd=S
+C:\Aldec\Active-HDL-10.3-x64\vlib\std/src/textio.vhd=S
+C:\Aldec\Active-HDL-10.3-x64\vlib\ieee/src/std_logic_1164.vhdl=S
+C:\Aldec\Active-HDL-10.3-x64\vlib\ieee/src/std_logic_1164-body.vhdl=S
+C:\Aldec\Active-HDL-10.3-x64\vlib\ieee/src/arith_p.vhd=S
+C:\Aldec\Active-HDL-10.3-x64\vlib\ieee/src/arith_b.vhd=S
+C:\Aldec\Active-HDL-10.3-x64\vlib\ieee/src/signed_p.vhd=S
+C:\Aldec\Active-HDL-10.3-x64\vlib\ieee/src/signed_b.vhd=S
+d:\My_Designs\uLaw_conversion\u2l/src/l2u.vhd=S
+d:\My_Designs\uLaw_conversion\u2l/src/uLaw_Encoder.vhd=S
+d:\My_Designs\uLaw_conversion\u2l/src/fast_encoder.vhd=S
+d:\My_Designs\uLaw_conversion\u2l/src/mulawdecoder.vhd=S
+d:\My_Designs\uLaw_conversion\u2l/src/ramp_gen.vhd=S
+d:\My_Designs\uLaw_conversion\u2l/src/clk_module_01.vhd=S
+d:\My_Designs\uLaw_conversion\u2l/src/u2l.vhd=S
+d:\My_Designs\uLaw_conversion\u2l/compile/l2u_TB.vhd=S

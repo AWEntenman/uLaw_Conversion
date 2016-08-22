@@ -1,0 +1,98 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=3
+Current Config=compile
+
+[Configurations]
+compile=u2l
+
+[Library]
+u2l=.\u2l\u2l.lib
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=MV_XST142
+RUN_MODE_SYNTH=0
+IMPL_TOOL=MV_ISE142
+CSYNTH_TOOL=<none>
+PHYSSYNTH_TOOL=<none>
+FLOWTOOLS=IMPL_WITH_SYNTH
+ON_SERVERFARM_SYNTH=0
+ON_SERVERFARM_IMPL=0
+ON_SERVERFARM_SIM=0
+DVM_DISPLAY=NO
+FAMILY=Xilinx14x VIRTEX4
+HESPrepare=0
+fileopenfolder=D:\599-9f60 merlin\ENG\DesignFiles\SourceVHDL\Main
+
+[LocalVerilogSets]
+EnableSLP=0
+EnableDebug=1
+
+[LocalVhdlSets]
+CompileWithDebug=1
+
+[$LibMap$]
+u2l=.
+Active_lib=VIRTEX4
+xilinxun=VIRTEX4
+UnlinkedDesignLibrary=VIRTEX4
+DESIGNS=VIRTEX4
+
+[IMPLEMENTATION_XILINX14]
+impl_opt(dont_run_translate)=0
+impl_opt(dont_run_map)=0
+impl_opt(dont_run_place)=0
+impl_opt(dont_run_trace)=0
+impl_opt(dont_run_simulation)=0
+impl_opt(dont_run_fit)=0
+impl_opt(dont_run_bitgen)=1
+
+[IMPLEMENTATION]
+FLOW_STEPS_RESET=0
+UCF=
+
+[SpecTracer]
+WindowVisible=0
+
+[HierarchyViewer]
+HierarchyInformation=l2u_tb|l2u_TB|0  
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/fast_encoder.vhd=-1
+/l2u.vhd=-1
+/clk_module_01.vhd=-1
+/uLaw_Encoder.vhd=-1
+/ramp_gen.vhd=-1
+/u2l.vhd=-1
+/mulawdecoder.vhd=-1
+/l2u_TB.bde=-1
+/w1.awf=-1
+
+[Files.Data]
+.\src\fast_encoder.vhd=VHDL Source Code
+.\src\l2u.vhd=VHDL Source Code
+.\src\clk_module_01.vhd=VHDL Source Code
+.\src\uLaw_Encoder.vhd=VHDL Source Code
+.\src\ramp_gen.vhd=VHDL Source Code
+.\src\u2l.vhd=VHDL Source Code
+.\src\mulawdecoder.vhd=VHDL Source Code
+.\src\l2u_TB.bde=Block Diagram
+.\src\w1.awf=Waveform File
+
+[file_out:/l2u_TB.bde]
+/..\compile\l2u_TB.vhd=-1
+

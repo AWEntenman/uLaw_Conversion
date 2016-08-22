@@ -1,0 +1,17 @@
+561
+~E 1 "./../src/clk_module_01.vhd" 31 clk_module_01
+~A 1 "./../src/clk_module_01.vhd" 41 clk_module_01
+~E 1 "./../src/fast_encoder.vhd" 35 fast_encoder
+~A 1 "./../src/fast_encoder.vhd" 47 fast_encoder
+~E 1 "./../src/l2u.vhd" 35 l2u
+~A 1 "./../src/l2u.vhd" 45 l2u
+~E 1 "./../compile/l2u_TB.vhd" 28 l2u_TB
+~A 1 "./../compile/l2u_TB.vhd" 40 l2u_TB
+~E 1 "./../src/mulawdecoder.vhd" 30 MuLawDecoder
+~A 1 "./../src/mulawdecoder.vhd" 39 RTL
+~E 1 "./../src/ramp_gen.vhd" 35 ramp_gen
+~A 1 "./../src/ramp_gen.vhd" 46 ramp_gen
+~E 1 "./../src/u2l.vhd" 35 u2l
+~A 1 "./../src/u2l.vhd" 46 u2l
+~E 1 "./../src/uLaw_Encoder.vhd" 35 uLaw_encoder
+~A 1 "./../src/uLaw_Encoder.vhd" 45 RTL
