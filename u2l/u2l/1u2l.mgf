@@ -7633,6 +7633,7 @@ V 000049 55 1574          1471899732644 Q_out_TB
 	)
 	(_use (ieee(std_logic_1164))(std(standard))(ieee(std_logic_arith))(ieee(STD_LOGIC_SIGNED)))
 )
+<<<<<<< HEAD
 V 000053 55 3165          1471983223911 fast_encoder
 (_unit VHDL (fast_encoder 0 35(fast_encoder 0 47))
 	(_version vd0)
@@ -7640,6 +7641,15 @@ V 000053 55 3165          1471983223911 fast_encoder
 	(_source (\./../src/fast_encoder.vhd\))
 	(_parameters dbg tan)
 	(_code 89da8a8781dfde9e8b8ccfd3dd8fdc8f8a8fdf8f8d)
+=======
+V 000053 55 3165          1471962813205 fast_encoder
+(_unit VHDL (fast_encoder 0 35(fast_encoder 0 47))
+	(_version vd0)
+	(_time 1471962813206 2016.08.23 10:33:33)
+	(_source (\./../src/fast_encoder.vhd\))
+	(_parameters dbg tan)
+	(_code 39383b3c316f6e2e3b3c7f636d3f6c3f3a3f6f3f3d)
+>>>>>>> be4079397d7f3b41c99179c103d8fbf23c310b89
 	(_ent
 		(_time 1471861147843)
 	)
@@ -7702,6 +7712,7 @@ V 000053 55 3165          1471983223911 fast_encoder
 	)
 	(_model . fast_encoder 12 -1)
 )
+<<<<<<< HEAD
 V 000044 55 2256          1471983223974 l2u
 (_unit VHDL (l2u 0 35(l2u 0 45))
 	(_version vd0)
@@ -7709,6 +7720,15 @@ V 000044 55 2256          1471983223974 l2u
 	(_source (\./../src/l2u.vhd\))
 	(_parameters dbg tan)
 	(_code c7949197c29196d19792d59c93c194c4c5c0c2c194)
+=======
+V 000044 55 2256          1471962813230 l2u
+(_unit VHDL (l2u 0 35(l2u 0 45))
+	(_version vd0)
+	(_time 1471962813231 2016.08.23 10:33:33)
+	(_source (\./../src/l2u.vhd\))
+	(_parameters dbg tan)
+	(_code 49481e4e421f185f191c5b121d4f1a4a4b4e4c4f1a)
+>>>>>>> be4079397d7f3b41c99179c103d8fbf23c310b89
 	(_ent
 		(_time 1471861532442)
 	)
@@ -7755,6 +7775,7 @@ V 000044 55 2256          1471983223974 l2u
 	)
 	(_model . l2u 5 -1)
 )
+<<<<<<< HEAD
 V 000054 55 1135          1471983224014 clk_module_01
 (_unit VHDL (clk_module_01 0 31(clk_module_01 0 41))
 	(_version vd0)
@@ -7762,6 +7783,15 @@ V 000054 55 1135          1471983224014 clk_module_01
 	(_source (\./../src/clk_module_01.vhd\))
 	(_parameters dbg tan)
 	(_code e6b5e0b5b3b1e0f3b1b1a2bce1e0e2e1e3e0b5e0e3)
+=======
+V 000054 55 1135          1471962813262 clk_module_01
+(_unit VHDL (clk_module_01 0 31(clk_module_01 0 41))
+	(_version vd0)
+	(_time 1471962813263 2016.08.23 10:33:33)
+	(_source (\./../src/clk_module_01.vhd\))
+	(_parameters dbg tan)
+	(_code 68696f68333f6e7d3f3f2c326f6e6c6f6d6e3b6e6d)
+>>>>>>> be4079397d7f3b41c99179c103d8fbf23c310b89
 	(_ent
 		(_time 1471861900756)
 	)
@@ -7784,6 +7814,7 @@ V 000054 55 1135          1471983224014 clk_module_01
 	(_use (ieee(std_logic_1164))(std(standard)))
 	(_model . clk_module_01 4 -1)
 )
+<<<<<<< HEAD
 V 000044 55 1964          1471983224060 RTL
 (_unit VHDL (ulaw_encoder 0 35(rtl 0 45))
 	(_version vd0)
@@ -7791,6 +7822,15 @@ V 000044 55 1964          1471983224060 RTL
 	(_source (\./../src/uLaw_Encoder.vhd\))
 	(_parameters dbg tan)
 	(_code 15471612434240021144534f411340131613431311)
+=======
+V 000044 55 1964          1471962813301 RTL
+(_unit VHDL (ulaw_encoder 0 35(rtl 0 45))
+	(_version vd0)
+	(_time 1471962813302 2016.08.23 10:33:33)
+	(_source (\./../src/uLaw_Encoder.vhd\))
+	(_parameters dbg tan)
+	(_code 97979698c3c0c28093c6d1cdc391c2919491c19193)
+>>>>>>> be4079397d7f3b41c99179c103d8fbf23c310b89
 	(_ent
 		(_time 1471861900777)
 	)
@@ -7811,7 +7851,11 @@ V 000044 55 1964          1471983224060 RTL
 		(_prcs
 			(line__52(_arch 0 0 52(_assignment (_trgt(4))(_sens(6)(7)(8(d_4_1))))))
 			(line__53(_arch 1 0 53(_assignment (_alias((Done)(TC)))(_simpleassign "not")(_trgt(3))(_sens(5)))))
+<<<<<<< HEAD
 			(p1(_arch 2 0 55(_prcs (_simple)(_trgt(5)(6)(7)(8))(_sens(1))(_mon)(_read(5)(7)(8)(0)(2)))))
+=======
+			(p1(_arch 2 0 55(_prcs (_simple)(_trgt(5)(6)(7)(8))(_sens(1))(_mon)(_read(0)(2)(5)(7)(8)))))
+>>>>>>> be4079397d7f3b41c99179c103d8fbf23c310b89
 		)
 		(_type (_ext ~extieee.std_logic_1164.STD_LOGIC (0 STD_LOGIC)))
 		(_type (_ext ~extieee.std_logic_1164.STD_ULOGIC (0 STD_ULOGIC)))
@@ -7828,6 +7872,7 @@ V 000044 55 1964          1471983224060 RTL
 	)
 	(_model . RTL 3 -1)
 )
+<<<<<<< HEAD
 V 000049 55 1202          1471983224106 ramp_gen
 (_unit VHDL (ramp_gen 0 35(ramp_gen 0 46))
 	(_version vd0)
@@ -7835,6 +7880,15 @@ V 000049 55 1202          1471983224106 ramp_gen
 	(_source (\./../src/ramp_gen.vhd\))
 	(_parameters dbg tan)
 	(_code 44164046411344534517021e124241421143464245)
+=======
+V 000049 55 1202          1471962813342 ramp_gen
+(_unit VHDL (ramp_gen 0 35(ramp_gen 0 46))
+	(_version vd0)
+	(_time 1471962813343 2016.08.23 10:33:33)
+	(_source (\./../src/ramp_gen.vhd\))
+	(_parameters dbg tan)
+	(_code b6b6b0e2b1e1b6a1b7e5f0ece0b0b3b0e3b1b4b0b7)
+>>>>>>> be4079397d7f3b41c99179c103d8fbf23c310b89
 	(_ent
 		(_time 1471861900828)
 	)
@@ -7848,7 +7902,11 @@ V 000049 55 1202          1471983224106 ramp_gen
 		(_sig (_int ramp 1 0 47(_arch(_uni(_string \"00000000"\)))))
 		(_prcs
 			(line__50(_arch 0 0 50(_assignment (_alias((Qout)(ramp)))(_trgt(2))(_sens(4)))))
+<<<<<<< HEAD
 			(p1(_arch 1 0 51(_prcs (_simple)(_trgt(4)(3))(_sens(0)(1))(_read(4)))))
+=======
+			(p1(_arch 1 0 51(_prcs (_simple)(_trgt(3)(4))(_sens(0)(1))(_read(4)))))
+>>>>>>> be4079397d7f3b41c99179c103d8fbf23c310b89
 		)
 		(_type (_ext ~extieee.std_logic_1164.STD_LOGIC (0 STD_LOGIC)))
 		(_type (_ext ~extieee.std_logic_1164.STD_ULOGIC (0 STD_ULOGIC)))
@@ -7859,6 +7917,7 @@ V 000049 55 1202          1471983224106 ramp_gen
 	)
 	(_model . ramp_gen 2 -1)
 )
+<<<<<<< HEAD
 V 000044 55 1888          1471983224145 u2l
 (_unit VHDL (u2l 0 35(u2l 0 46))
 	(_version vd0)
@@ -7866,6 +7925,15 @@ V 000044 55 1888          1471983224145 u2l
 	(_source (\./../src/u2l.vhd\))
 	(_parameters dbg tan)
 	(_code 732170777224746475726129717476707175207476)
+=======
+V 000044 55 1888          1471962813371 u2l
+(_unit VHDL (u2l 0 35(u2l 0 46))
+	(_version vd0)
+	(_time 1471962813372 2016.08.23 10:33:33)
+	(_source (\./../src/u2l.vhd\))
+	(_parameters dbg tan)
+	(_code d6d6d781d281d1c1d0d7c48cd4d1d3d5d4d085d1d3)
+>>>>>>> be4079397d7f3b41c99179c103d8fbf23c310b89
 	(_ent
 		(_time 1471861900869)
 	)
@@ -7908,6 +7976,7 @@ V 000044 55 1888          1471983224145 u2l
 	)
 	(_model . u2l 5 -1)
 )
+<<<<<<< HEAD
 V 000044 55 1702          1471983224177 RTL
 (_unit VHDL (mulawdecoder 0 30(rtl 0 39))
 	(_version vd0)
@@ -7915,6 +7984,15 @@ V 000044 55 1702          1471983224177 RTL
 	(_source (\./../src/mulawdecoder.vhd\))
 	(_parameters dbg tan)
 	(_code 92c1c09c95c59584909785c8c79497949194c49496)
+=======
+V 000044 55 1702          1471962813393 RTL
+(_unit VHDL (mulawdecoder 0 30(rtl 0 39))
+	(_version vd0)
+	(_time 1471962813394 2016.08.23 10:33:33)
+	(_source (\./../src/mulawdecoder.vhd\))
+	(_parameters dbg tan)
+	(_code f5f4a5a4f5a2f2e3f7f0e2afa0f3f0f3f6f3a3f3f1)
+>>>>>>> be4079397d7f3b41c99179c103d8fbf23c310b89
 	(_ent
 		(_time 1471861900909)
 	)
@@ -7955,6 +8033,7 @@ V 000044 55 1702          1471983224177 RTL
 	)
 	(_model . RTL 1 -1)
 )
+<<<<<<< HEAD
 V 000047 55 5929          1471983224230 l2u_TB
 (_unit VHDL (l2u_tb 0 28(l2u_tb 0 44))
 	(_version vd0)
@@ -7962,6 +8041,15 @@ V 000047 55 5929          1471983224230 l2u_TB
 	(_source (\./../compile/l2u_TB.vhd\))
 	(_parameters dbg tan)
 	(_code c1929491c29790d49e90d59b92c792c2c3c6c4c497)
+=======
+V 000047 55 5929          1471962813434 l2u_TB
+(_unit VHDL (l2u_tb 0 28(l2u_tb 0 44))
+	(_version vd0)
+	(_time 1471962813435 2016.08.23 10:33:33)
+	(_source (\./../compile/l2u_TB.vhd\))
+	(_parameters dbg tan)
+	(_code 14154216124245014b45004e471247171613111142)
+>>>>>>> be4079397d7f3b41c99179c103d8fbf23c310b89
 	(_ent
 		(_time 1471861864856)
 	)
@@ -8154,6 +8242,7 @@ V 000047 55 5929          1471983224230 l2u_TB
 	(_use (ieee(std_logic_1164))(std(standard))(ieee(std_logic_arith))(ieee(STD_LOGIC_SIGNED)))
 	(_model . l2u_TB 2 -1)
 )
+<<<<<<< HEAD
 V 000049 55 816           1471983224269 Extra_TB
 (_unit VHDL (extra_tb 0 29(extra_tb 0 36))
 	(_version vd0)
@@ -8161,6 +8250,15 @@ V 000049 55 816           1471983224269 Extra_TB
 	(_source (\./../compile/Extra_TB.vhd\))
 	(_parameters dbg tan)
 	(_code f0a3f3a1f8a6a0e7f0f7e1a9f7f7f4f6f2f6f5f7f8)
+=======
+V 000049 55 816           1471962813459 Extra_TB
+(_unit VHDL (extra_tb 0 29(extra_tb 0 36))
+	(_version vd0)
+	(_time 1471962813460 2016.08.23 10:33:33)
+	(_source (\./../compile/Extra_TB.vhd\))
+	(_parameters dbg tan)
+	(_code 33323337386563243334226a34343735313536343b)
+>>>>>>> be4079397d7f3b41c99179c103d8fbf23c310b89
 	(_ent
 		(_time 1471897897735)
 	)
@@ -8191,6 +8289,7 @@ V 000049 55 816           1471983224269 Extra_TB
 	)
 	(_use (ieee(std_logic_1164))(std(standard)))
 )
+<<<<<<< HEAD
 V 000049 55 1574          1471983224279 Q_out_TB
 (_unit VHDL (q_out_tb 0 32(q_out_tb 0 39))
 	(_version vd0)
@@ -8198,6 +8297,15 @@ V 000049 55 1574          1471983224279 Q_out_TB
 	(_source (\./../compile/Q_out_TB.vhd\))
 	(_parameters dbg tan)
 	(_code f0a2f7a3a6a7f2e7f6fee4a9f7f7f4f6f2f7f1f5a6)
+=======
+V 000049 55 1574          1471962813465 Q_out_TB
+(_unit VHDL (q_out_tb 0 32(q_out_tb 0 39))
+	(_version vd0)
+	(_time 1471962813466 2016.08.23 10:33:33)
+	(_source (\./../compile/Q_out_TB.vhd\))
+	(_parameters dbg tan)
+	(_code 3333373566643124353d276a343437353134323665)
+>>>>>>> be4079397d7f3b41c99179c103d8fbf23c310b89
 	(_ent
 		(_time 1471899732640)
 	)

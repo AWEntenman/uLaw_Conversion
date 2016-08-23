@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Active-HDL 10.3.3558.6081  2016-08-23 16:13:19
+=======
+Active-HDL 10.3.3558.6081  2016-08-23 10:33:10
+>>>>>>> be4079397d7f3b41c99179c103d8fbf23c310b89
 
 Elaboration top modules:
 Architecture                  l2u_TB(l2u_TB)

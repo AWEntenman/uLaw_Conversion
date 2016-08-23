@@ -11,9 +11,15 @@
 --
 -------------------------------------------------------------------------------
 --
+<<<<<<< HEAD
 -- File        : D:\My_Designs\uLaw_Conversion\u2l\compile\Extra_TB.vhd
 -- Generated   : Tue Aug 23 16:13:43 2016
 -- From        : D:\My_Designs\uLaw_Conversion\u2l\src\Extra_TB.bde
+=======
+-- File        : C:\temp\uLaw_Conversion\u2l\compile\Extra_TB.vhd
+-- Generated   : Tue Aug 23 10:33:32 2016
+-- From        : C:\temp\uLaw_Conversion\u2l\src\Extra_TB.bde
+>>>>>>> be4079397d7f3b41c99179c103d8fbf23c310b89
 -- By          : Bde2Vhdl ver. 2.6
 --
 -------------------------------------------------------------------------------
